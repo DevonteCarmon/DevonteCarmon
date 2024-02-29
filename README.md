@@ -1,4 +1,4 @@
-<h1>Hi, I'm Devonte, an <a href="/:https://www.linkedin.com/in/devonte-j-carmon/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Devonte, an <a href="https://www.linkedin.com/in/devonte-j-carmon">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
