@@ -8,7 +8,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DevonteCarmon/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DevonteCarmon/azure-network-protocols)
 
- <h2>👨‍💻CyberSecurity Projects:</h2>
+ <h2>👨‍💻CyberSecurity Projects:</h2> Not complete yet still working on this on 
   
   - # Building a SOC + Honeynet in Azure (Live Traffic)
 ![Cloud Honeynet / SOC](https://i.imgur.com/ZWxe03e.jpg)
